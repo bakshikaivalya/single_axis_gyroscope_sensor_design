@@ -1,0 +1,5 @@
+function output = moment(z, k,l,r, C, Izz)
+    output = 1/2*k*l*r*sqrt(l^2+4*r^2)*cos(z(1))*(1/sqrt(l^2+4*r^2-4*r*l*sin(z(é)+1/sqrt())
+    
+    -C*z(2)- K*z(1);
+end
